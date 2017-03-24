@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6834B27E-6F81-4156-87D8-47D1E23BD772}|Default">
+  <MonoDevelop.Ide.ItemProperties.ResumeViewer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1D639A5F-2468-4A14-A636-C83CEEF857E3" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ResumeViewer" expanded="True">
+            <Node name="ResumeViewer.iOS" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
